@@ -1,5 +1,3 @@
-## DON'T WORK IN MASTER BRANCH
-
 # Getting Started
 For individuals who would like to continue developing this application as their own project.
 
